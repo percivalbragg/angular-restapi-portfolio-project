@@ -1,0 +1,7 @@
+<div id="education" class="container about my-3">
+  <h4 class="heading">Education</h4>
+  <div *ngFor="let course of courses">
+    <h6 class="mb-0">{{ course.course | uppercase }}</h6>
+    <p>{{ course.school }}</p>
+  </div>
+</div>

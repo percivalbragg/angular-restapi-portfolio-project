@@ -1,0 +1,43 @@
+body {
+  font-family: "Roboto Condensed" sans-serif;
+}
+
+.heading {
+  text-transform: uppercase;
+}
+
+/***************************NAVBAR******************************/
+.logo {
+  width: 16.25rem;
+  height: 6.25rem;
+}
+
+/***********************MENU LINKS***************************/
+nav a.nav-link {
+  letter-spacing: 0.0375rem;
+  cursor: pointer;
+}
+
+nav ul li {
+  text-transform: uppercase;
+  color: var(--primary-white);
+}
+
+.navbar-nav > li > a {
+  margin-right: 0.75rem;
+  margin-left: 0.75rem;
+  color: var(--primary-white) !important;
+  border-top: 0.1875rem solid var(--primary-dark);
+}
+
+.navbar-brand {
+  max-width: 17.25rem;
+  padding: 0 !important;
+  height: 6.25rem !important;
+}
+
+.navbar-nav > li > a.active,
+.navbar-nav > li > a.active:focus,
+.navbar-nav > li > a:hover {
+  border-top: 0.1875rem solid var(--primary-orangered);
+}

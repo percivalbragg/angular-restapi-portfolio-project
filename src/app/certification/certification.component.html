@@ -1,0 +1,7 @@
+<div class="container certification my-3">
+  <h4 class="heading">Certifications</h4>
+  <div *ngFor="let certification of certifications">
+    <h6 class="mb-0">{{ certification.certificate | uppercase }}</h6>
+    <p>{{ certification.body }}</p>
+  </div>
+</div>

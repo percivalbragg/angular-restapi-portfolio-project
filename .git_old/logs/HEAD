@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 ce3a78d3ac39ad5cafd9018a449ea69fe9d732f3 percivalbragg <percivalbragg@yahoo.com> 1617504254 -0500	commit (initial): initial commit
+ce3a78d3ac39ad5cafd9018a449ea69fe9d732f3 76739a10b6017def59c258319124a301545e43df percivalbragg <percivalbragg@yahoo.com> 1617591803 -0500	commit: Portfolio coding completed
+76739a10b6017def59c258319124a301545e43df 4886e8ce9e18601d0931523f72cb48ff840ab914 percivalbragg <percivalbragg@yahoo.com> 1617667132 -0500	commit: fixed logo address
+4886e8ce9e18601d0931523f72cb48ff840ab914 974ac127d20a4380d2666ee425d7711a9bdb8c8b percivalbragg <percivalbragg@yahoo.com> 1617747697 -0500	commit: Added footer to page
+974ac127d20a4380d2666ee425d7711a9bdb8c8b ba5cfe4ffd7fea056988e014ff8dcc22b3ed5c33 percivalbragg <percivalbragg@yahoo.com> 1617756229 -0500	commit: fixed footer overlapping end of page
+ba5cfe4ffd7fea056988e014ff8dcc22b3ed5c33 5e6bd5d4e3fe082f9530612fc9db6b40a22b5e6f percivalbragg <percivalbragg@yahoo.com> 1617761505 -0500	commit: changed footer opacity to 1
+5e6bd5d4e3fe082f9530612fc9db6b40a22b5e6f abcb0b7a71d38496b48780ac10f6c385063bc75c percivalbragg <percivalbragg@yahoo.com> 1617762104 -0500	commit: removed bottom marging from footer
+abcb0b7a71d38496b48780ac10f6c385063bc75c 57731a88e825f25afd07f15c2fa24ba074004434 percivalbragg <percivalbragg@yahoo.com> 1617903550 -0500	commit: added code to hide footer when at top of page
+57731a88e825f25afd07f15c2fa24ba074004434 da792c0f2ae2368c492b2f3588e4a3ecaddb992b percivalbragg <percivalbragg@yahoo.com> 1617903789 -0500	commit: removed script file from angular.json
+da792c0f2ae2368c492b2f3588e4a3ecaddb992b 82baae4dcf54d318bc161930ddb9d751a7111799 percivalbragg <percivalbragg@yahoo.com> 1618090989 -0500	commit: made some changes to footer

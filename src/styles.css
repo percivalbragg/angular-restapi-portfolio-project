@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap");
+
+:root {
+  --primary-white: #fff;
+  --primary-orangered: #ff4500;
+  --primary-orange: #fa9e53;
+  --primary-dark: rgba(255, 255, 255, 0);
+}
